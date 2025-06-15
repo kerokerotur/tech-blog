@@ -12,8 +12,10 @@ This is a React Router v7 tech blog application built with TypeScript, TailwindC
 - `npm run build` - Create production build
 - `npm run start` - Start production server 
 - `npm run typecheck` - Run TypeScript type checking with React Router type generation
+- `npm run format` - Format all files with Prettier
+- `npm run format:check` - Check if files are properly formatted
 
-Always run `npm run typecheck` after making changes to verify compilation.
+Always run `npm run typecheck` after making changes to verify compilation. Code formatting is applied automatically on save in VSCode.
 
 ## Architecture
 
